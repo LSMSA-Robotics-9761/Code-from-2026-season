@@ -1,0 +1,10 @@
+Software needed for robotics as of April 2026
+
+Ni software manager and all software it gets :https://www.ni.com/en/support/downloads/drivers/download/packaged.frc-game-tools.581857.html
+Rev hardware client: https://rhc2.revrobotics.com/download/rev-hardware-client.exe
+WPILib installer: https://packages.wpilib.workers.dev/installer/v2026.2.1/Win64/WPILib_Windows-2026.2.1.iso
+Advagnate scope: https://release-assets.githubusercontent.com/github-production-release-asset/395845644/16eff11f-4771-41d4-9888-808a64e23ebe?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-02-26T21%3A55%3A31Z&rscd=attachment%3B+filename%3Dadvantagescope-win-x64-v26.0.0.exe&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-02-26T20%3A54%3A35Z&ske=2026-02-26T21%3A55%3A31Z&sks=b&skv=2018-11-09&sig=HmfrGZobmxzBbXNAF1GG9g3UwVdpWgzGKTuYfAgUYu8%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3MjE0MzM2MiwibmJmIjoxNzcyMTM5NzYyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.M86Npch_pNQYStl7UmaN4uJQs7AtJZClEMHL4aKRH64&response-content-disposition=attachment%3B%20filename%3Dadvantagescope-win-x64-v26.0.0.exe&response-content-type=application%2Foctet-stream
+
+and code from last upload: https://github.com/LSMSA-Robotics-9761
+
+
